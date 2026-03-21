@@ -38,7 +38,7 @@
 - Automation with VBA
 
 - Dataset
-  Synthetic electronics retail dataset (for demonstration purposes) from [source](https://mavenanalytics.io/guided-projects/global-electronics-retailer)
+  Synthetic electronics retail dataset (for demonstration purposes) from [source](https://mavenanalytics.io/data-playground/global-electronics-retailer)
   
 - How to Use
 Open the Excel file
