@@ -37,11 +37,11 @@
 - Dashboard Design
 - Automation with VBA
 
-- Dataset
-  Synthetic electronics retail dataset (for demonstration purposes) from [source](https://mavenanalytics.io/data-playground/global-electronics-retailer)
-  
-- How to Use
-Open the Excel file
-Enable macros (required for VBA features)
-Use slicers and timeline to filter data
-Interact with buttons for custom functionality
+# Dataset
+Synthetic electronics retail dataset (for demonstration purposes) from [source](https://mavenanalytics.io/data-playground/global-electronics-retailer)
+ 
+# How to Use
+- Open the Excel file
+- Enable macros (required for VBA features)
+- Use slicers and timeline to filter data
+- Interact with buttons for custom functionality
