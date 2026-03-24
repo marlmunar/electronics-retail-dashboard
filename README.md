@@ -3,6 +3,9 @@
 
  This project is an interactive Excel dashboard built using synthetic electronics retail data. It provides insights into business performance over a 6-year period, highlighting key metrics, trends, and customer behavior.
 
+<img width="1348" height="720" alt="image" src="https://github.com/user-attachments/assets/d7b51e59-0864-4546-8dcf-d0233993c471" />
+
+
 ## Objectives
 - Analyze retail sales performance
 - Identify top-performing product categories
